@@ -1,9 +1,9 @@
-# @13onthecode/tsconfig-vue
+# @13onthecode/typescript-config-vue
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/137921275/258572450-d0a2270e-45ad-4ed4-aed0-b5c0a2eea988.svg" width="100" height="100" align="right" alt="Typescript" />
 
-[![Version](https://img.shields.io/npm/v/@13onthecode/tsconfig-vue?color=1976d2&label=)](https://www.npmjs.com/package/@13onthecode/tsconfig-vue)
-[![License](https://img.shields.io/npm/l/@13onthecode/tsconfig-vue?color=1976d2&label=)](LICENSE.md)
+[![Version](https://img.shields.io/npm/v/@13onthecode/typescript-config-vue?color=1976d2&label=)](https://www.npmjs.com/package/@13onthecode/typescript-config-vue)
+[![License](https://img.shields.io/npm/l/@13onthecode/typescript-config-vue?color=1976d2&label=)](LICENSE.md)
 
 English | [简体中文](README.CN.md)
 
@@ -21,7 +21,7 @@ Typescript shareable configuration for Vue
 ## Install
 
 ```bash
-npm install @13onthecode/tsconfig-vue --save-dev
+npm install @13onthecode/typescript-config-vue --save-dev
 ```
 
 ## Usage
@@ -30,15 +30,15 @@ To use the pre-configured tsconfig files, simply extend the configuration in you
 
 ```json
 {
-  "extends": "@13onthecode/tsconfig-vue"
+  "extends": "@13onthecode/typescript-config-vue"
 }
 ```
 
 ## Related
 
-- [`@13onthecode/tsconfig-base`](https://github.com/13OnTheCode/tsconfig/tree/main/packages/base)
-- [`@13onthecode/tsconfig-node`](https://github.com/13OnTheCode/tsconfig/tree/main/packages/node)
-- [`@13onthecode/tsconfig-react`](https://github.com/13OnTheCode/tsconfig/tree/main/packages/react)
+- [`@13onthecode/typescript-config-base`](https://github.com/13OnTheCode/typescript-config/tree/main/packages/base)
+- [`@13onthecode/typescript-config-node`](https://github.com/13OnTheCode/typescript-config/tree/main/packages/node)
+- [`@13onthecode/typescript-config-react`](https://github.com/13OnTheCode/typescript-config/tree/main/packages/react)
 
 ## License
 
