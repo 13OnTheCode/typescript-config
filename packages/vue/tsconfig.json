@@ -1,0 +1,13 @@
+{
+  "extends": "@13onthecode/typescript-config-node",
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "jsx": "preserve",
+    "jsxImportSource": "vue",
+    "moduleResolution": "bundler"
+  }
+}

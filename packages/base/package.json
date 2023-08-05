@@ -1,0 +1,45 @@
+{
+  "name": "@13onthecode/typescript-config-base",
+  "description": "Typescript shareable basic configuration",
+  "version": "0.0.1",
+  "license": "MIT",
+  "homepage": "https://github.com/13OnTheCode/typescript-config#readme",
+  "bugs": "https://github.com/13OnTheCode/typescript-config/issues",
+  "author": {
+    "name": "13OnTheCode",
+    "email": "13@ryongyon.com",
+    "url": "https://ryongyon.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/13OnTheCode/typescript-config.git",
+    "directory": "packages/base"
+  },
+  "keywords": [
+    "typescript",
+    "tsconfig",
+    "base"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "packageManager": "pnpm@8.6.6",
+  "scripts": {
+    "clean": "pnpm dlx rimraf node_modules"
+  },
+  "peerDependencies": {
+    "typescript": ">=5.0.0"
+  },
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": true
+    }
+  },
+  "files": [
+    "tsconfig.json",
+    "LICENSE.md",
+    "CHANGELOG.md",
+    "README.md",
+    "README.CN.md"
+  ]
+}

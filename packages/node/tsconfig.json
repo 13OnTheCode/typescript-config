@@ -1,0 +1,11 @@
+{
+  "extends": "@13onthecode/typescript-config-base",
+  "compilerOptions": {
+    "lib": [
+      "esnext"
+    ],
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "nodenext"
+  }
+}
