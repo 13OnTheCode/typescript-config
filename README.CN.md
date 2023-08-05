@@ -28,7 +28,7 @@ npm install @13onthecode/typescript-config --save-dev
 
 要使用预配置的 tsconfig 文件，只需在项目的 `tsconfig.json` 文件中扩展配置:
 
-### Base Configuration
+### Base
 
 ```json
 {
