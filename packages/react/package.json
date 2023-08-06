@@ -1,9 +1,9 @@
 {
   "name": "@13onthecode/typescript-config-react",
   "description": "Typescript shareable configuration for React",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
-  "homepage": "https://github.com/13OnTheCode/typescript-config#readme",
+  "homepage": "https://github.com/13OnTheCode/typescript-config/tree/main/packages/react#readme",
   "bugs": "https://github.com/13OnTheCode/typescript-config/issues",
   "author": {
     "name": "13OnTheCode",

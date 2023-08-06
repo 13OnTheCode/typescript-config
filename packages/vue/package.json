@@ -1,9 +1,9 @@
 {
   "name": "@13onthecode/typescript-config-vue",
   "description": "Typescript shareable configuration for Vue",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
-  "homepage": "https://github.com/13OnTheCode/typescript-config#readme",
+  "homepage": "https://github.com/13OnTheCode/typescript-config/tree/main/packages/vue#readme",
   "bugs": "https://github.com/13OnTheCode/typescript-config/issues",
   "author": {
     "name": "13OnTheCode",
