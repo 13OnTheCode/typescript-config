@@ -1,3 +1,9 @@
 {
-  "extends": "@13onthecode/typescript-config-node"
+  "extends": "../base/tsconfig.json",
+  "compilerOptions": {
+    "lib": ["esnext"],
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "nodenext"
+  }
 }

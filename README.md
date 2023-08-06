@@ -7,12 +7,12 @@
 
 English | [简体中文](README.CN.md)
 
-A versatile TypeScript configuration library that simplifies TypeScript setup using best practices, providing pre-configured tsconfig files for Node.js, React, and Vue projects
+A versatile TypeScript configuration library that follows best practices, offering foundational setups for Node.js, React, and Vue projects
 
 ## Features
-- Flexible configuration options to adapt to different project needs
-- Integrated with best practices for accurate and reliable type checking
-- Continuously maintained and updated, supporting the latest versions and features
+- Follow best practices to achieve accurate and reliable type checking
+- Flexible configuration options to cater to different project needs
+- Continuously maintained and updated to support the latest versions and features
 
 ## Prerequisites
 
@@ -28,7 +28,7 @@ npm install @13onthecode/typescript-config --save-dev
 
 To use the pre-configured tsconfig files, simply extend the configuration in your project's `tsconfig.json` file:
 
-### Base
+#### Base
 
 ```json
 {
@@ -36,7 +36,7 @@ To use the pre-configured tsconfig files, simply extend the configuration in you
 }
 ```
 
-### Node.js
+#### Node.js
 
 ```json
 {
@@ -44,7 +44,7 @@ To use the pre-configured tsconfig files, simply extend the configuration in you
 }
 ```
 
-### React
+#### React
 
 ```json
 {
@@ -52,22 +52,13 @@ To use the pre-configured tsconfig files, simply extend the configuration in you
 }
 ```
 
-### Vue
+#### Vue
 
 ```json
 {
   "extends": "@13onthecode/typescript-config/vue"
 }
 ```
-
-## Packages
-
-This package is a collection of the following shareable TypeScript configurations:
-
-- [`@13onthecode/typescript-config-base`](https://github.com/13OnTheCode/typescript-config/tree/main/packages/base)
-- [`@13onthecode/typescript-config-node`](https://github.com/13OnTheCode/typescript-config/tree/main/packages/node)
-- [`@13onthecode/typescript-config-react`](https://github.com/13OnTheCode/typescript-config/tree/main/packages/react)
-- [`@13onthecode/typescript-config-vue`](https://github.com/13OnTheCode/typescript-config/tree/main/packages/vue)
 
 ## License
 

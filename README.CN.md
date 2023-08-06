@@ -7,12 +7,12 @@
 
 [English](README.md) | 简体中文
 
-一个通用的 TypeScript 配置库，使用最佳实践简化你的 TypeScript 设置，为 Node.js、React 和 Vue 项目提供预先配置的 tsconfig 文件
+一个通用的 TypeScript 配置库，它遵循最佳实践，为 Node.js、React 和 Vue 项目提供基础配置
 
 ## Features
-- 灵活的配置选项，适应不同项目需求
-- 集成了最佳实践，实现准确可靠的类型检查
-- 持续维护和更新，支持最新的版本和特性
+- 遵循最佳实践，实现准确可靠的类型检查
+- 灵活配置选项，适应不同项目需求
+- 持续维护更新，支持最新的版本和特性
 
 ## Prerequisites
 
@@ -28,7 +28,7 @@ npm install @13onthecode/typescript-config --save-dev
 
 要使用预配置的 tsconfig 文件，只需在项目的 `tsconfig.json` 文件中扩展配置:
 
-### Base
+#### Base
 
 ```json
 {
@@ -36,7 +36,7 @@ npm install @13onthecode/typescript-config --save-dev
 }
 ```
 
-### Node.js
+#### Node.js
 
 ```json
 {
@@ -44,7 +44,7 @@ npm install @13onthecode/typescript-config --save-dev
 }
 ```
 
-### React
+#### React
 
 ```json
 {
@@ -52,22 +52,13 @@ npm install @13onthecode/typescript-config --save-dev
 }
 ```
 
-### Vue
+#### Vue
 
 ```json
 {
   "extends": "@13onthecode/typescript-config/vue"
 }
 ```
-
-## Packages
-
-该包是以下共享 TypeScript 配置包的集合：
-
-- [`@13onthecode/typescript-config-base`](https://github.com/13OnTheCode/typescript-config/tree/main/packages/base)
-- [`@13onthecode/typescript-config-node`](https://github.com/13OnTheCode/typescript-config/tree/main/packages/node)
-- [`@13onthecode/typescript-config-react`](https://github.com/13OnTheCode/typescript-config/tree/main/packages/react)
-- [`@13onthecode/typescript-config-vue`](https://github.com/13OnTheCode/typescript-config/tree/main/packages/vue)
 
 ## License
 
