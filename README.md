@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/npm/v/@13onthecode/typescript-config?color=1976d2&label=)](https://www.npmjs.com/package/@13onthecode/typescript-config)
 [![License](https://img.shields.io/npm/l/@13onthecode/typescript-config?color=1976d2&label=)](LICENSE.md)
 
-English | [简体中文](https://github.com/13OnTheCode/typescript-config/blob/main/README.CN.md)
+English | [简体中文](README.CN.md)
 
 A versatile TypeScript configuration library that follows best practices, offering foundational setups for Node.js, React, and Vue projects
 

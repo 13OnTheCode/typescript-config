@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/npm/v/@13onthecode/typescript-config?color=1976d2&label=)](https://www.npmjs.com/package/@13onthecode/typescript-config)
 [![License](https://img.shields.io/npm/l/@13onthecode/typescript-config?color=1976d2&label=)](LICENSE.md)
 
-[English](https://github.com/13OnTheCode/typescript-config/blob/main/README.md) | 简体中文
+[English](README.md) | 简体中文
 
 一个通用的 TypeScript 配置库，它遵循最佳实践，为 Node.js、React 和 Vue 项目提供基础配置
 
