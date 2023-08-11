@@ -44,10 +44,6 @@
     "base",
     "node",
     "react",
-    "vue",
-    "LICENSE.md",
-    "CHANGELOG.md",
-    "README.md",
-    "README.CN.md"
+    "vue"
   ]
 }
