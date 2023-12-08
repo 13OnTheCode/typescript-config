@@ -1,6 +1,6 @@
-# @13onthecode/typescript-config
+# @13OnTheCode/Typescript-Config
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/137921275/258572450-d0a2270e-45ad-4ed4-aed0-b5c0a2eea988.svg" width="100" height="100" align="right" alt="Typescript" />
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/137921275/258572450-d0a2270e-45ad-4ed4-aed0-b5c0a2eea988.svg" width="100" height="100" align="right" alt="TypeScript" />
 
 [![Version](https://img.shields.io/npm/v/@13onthecode/typescript-config?color=1976d2&label=)](https://www.npmjs.com/package/@13onthecode/typescript-config)
 [![License](https://img.shields.io/npm/l/@13onthecode/typescript-config?color=1976d2&label=)](LICENSE.md)
@@ -16,7 +16,8 @@ A versatile TypeScript configuration library that follows best practices, offeri
 
 ## Prerequisites
 
-- TypeScript version 5.0.0 or higher
+### TypeScript
+- Version >= 5.0.0
 
 ## Install
 
@@ -61,7 +62,7 @@ To use the pre-configured tsconfig files, simply extend the configuration in you
 ```
 
 ## Check Also
-- [`@13onthecode/eslint-config`](https://github.com/13OnTheCode/eslint-config)
+- [`@13OnTheCode/ESLint-Config`](https://github.com/13OnTheCode/eslint-config)
 
 ## License
 
