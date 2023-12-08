@@ -4,6 +4,6 @@
     "lib": ["esnext"],
     "target": "esnext",
     "module": "esnext",
-    "moduleResolution": "nodenext"
+    "moduleResolution": "bundler"
   }
 }
