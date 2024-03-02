@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
     "strict": true,
-    "noEmit": true,
     "allowJs": true,
     "skipLibCheck": true,
     "isolatedModules": true,
@@ -9,9 +8,9 @@
     "strictNullChecks": true,
     "resolveJsonModule": true,
     "useDefineForClassFields": true,
-    "noUncheckedIndexedAccess": true,
     "allowImportingTsExtensions": true,
     "allowSyntheticDefaultImports": true,
+    "noUncheckedIndexedAccess": true,
     "forceConsistentCasingInFileNames": true
   }
 }
