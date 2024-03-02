@@ -43,6 +43,7 @@
   "files": [
     "base",
     "strict",
+    "browser",
     "node",
     "react",
     "vue"

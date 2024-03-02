@@ -1,0 +1,6 @@
+{
+  "extends": "../base/tsconfig",
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"]
+  }
+}
