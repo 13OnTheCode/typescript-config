@@ -1,8 +1,7 @@
 {
-  "extends": "../node/tsconfig.json",
+  "extends": ["../node/tsconfig", "../browser/tsconfig"],
   "compilerOptions": {
     "noEmit": true,
-    "lib": ["dom", "dom.iterable", "esnext"],
     "jsx": "preserve",
     "jsxImportSource": "vue",
     "verbatimModuleSyntax": true
