@@ -37,7 +37,23 @@ npm install @13onthecode/typescript-config --save-dev
 }
 ```
 
-#### Node.js
+#### Strict
+
+```json
+{
+  "extends": "@13onthecode/typescript-config/strict"
+}
+```
+
+#### Browser
+
+```json
+{
+  "extends": "@13onthecode/typescript-config/browser"
+}
+```
+
+#### Node
 
 ```json
 {

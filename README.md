@@ -37,7 +37,23 @@ To use the pre-configured tsconfig files, simply extend the configuration in you
 }
 ```
 
-#### Node.js
+#### Strict
+
+```json
+{
+  "extends": "@13onthecode/typescript-config/strict"
+}
+```
+
+#### Browser
+
+```json
+{
+  "extends": "@13onthecode/typescript-config/browser"
+}
+```
+
+#### Node
 
 ```json
 {
