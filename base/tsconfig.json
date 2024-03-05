@@ -3,6 +3,7 @@
     "strict": true,
     "allowJs": true,
     "skipLibCheck": true,
+    "noImplicitThis": true,
     "isolatedModules": true,
     "esModuleInterop": true,
     "strictNullChecks": true,
