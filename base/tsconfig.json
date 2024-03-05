@@ -6,7 +6,6 @@
     "isolatedModules": true,
     "esModuleInterop": true,
     "strictNullChecks": true,
-    "resolveJsonModule": true,
     "verbatimModuleSyntax": true,
     "useDefineForClassFields": true,
     "allowSyntheticDefaultImports": true,
